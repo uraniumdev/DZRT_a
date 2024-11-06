@@ -1,14 +1,43 @@
-🔄 Starting product availability check...
-✅ Page content saved to page_content.html
-📦 Products availability:
-- Icy Rush: Out of stock
-- Seaside Frost: Out of stock
-- Purple Mist: Available
-- Highland Berries: Available
-- Mint Fusion: Available
-- Spicy Zest: Available
-- Garden Mint: Available
-- Mojito: Available
-- Tamra: Available
-- Edgy Mint: Available
-- Samra: Out of stock
+[
+  {
+    "name": "Seaside Frost",
+    "available": false
+  },
+  {
+    "name": "Icy Rush✅ Product availability data saved to products.json
+e Mist",
+    "available": true
+  },
+  {
+    "name": "Highland Berries",
+    "available": true
+  },
+  {
+    "name": "Mint Fusion",
+    "available": true
+  },
+  {
+    "name": "Spicy Zest",
+    "available": true
+  },
+  {
+    "name": "Garden Mint",
+    "available": true
+  },
+  {
+    "name": "Mojito",
+    "available": true
+  },
+  {
+    "name": "Tamra",
+    "available": true
+  },
+  {
+    "name": "Edgy Mint",
+    "available": true
+  },
+  {
+    "name": "Samra",
+    "available": false
+  }
+]
